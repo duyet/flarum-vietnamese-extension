@@ -87,11 +87,11 @@ core:
   send_password_reset_email: Gửi email thay đổi mật khẩu
   settings: Thiết lập
   sign_up: Đăng ký
-  sort_latest: Mới
+  sort_latest: Latest
   sort_newest: Mới nhất
-  sort_oldest: Cũ
+  sort_oldest: Cũ nhất
   sort_relevance: Phù hợp
-  sort_top: Lên trên
+  sort_top: Top
   start_a_discussion: Mới
   unread_posts: "{count} unread"
   upload: Tải lên
