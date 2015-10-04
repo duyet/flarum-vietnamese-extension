@@ -1,0 +1,107 @@
+core:
+  account: Tài khoản
+  activity: Hoạt động
+  administration: Quản trị
+  alert: Thông báo
+  all_discussions: Thảo luận
+  before_log_in_link: Đã có tài khoản?
+  before_sign_up_link: Chưa có tài khoản?
+  bio_placeholder: Mô tả đôi chút về bạn
+  cannot_reply: Không thể trả lời
+  cannot_reply_help: Bạn không được phép bình luận vào bài viết này.
+  change_email: Thay đổi email
+  change_password: Thay đổi mật khẩu
+  change_password_help: Nhấn vào nút bên dưới và kiểm tra email của bạn. Mở liên kết trong email để thay đổi mật khẩu của bạn.
+  close: Đóng
+  confirm_delete_discussion: Bạn muốn xóa bài viết?
+  confirm_discard_discussion: Bạn chưa có phản hồi nào trong bài viết. Bạn có chắc hủy phản hồi mới?
+  confirm_discard_edit: Bạn chưa lưu thay đổi. Bạn có muốn hủy nội dung?
+  confirm_discard_reply: You have not posted your reply. Bạn có muốn hủy?
+  confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  controls: Quản lý
+  delete: Xóa
+  delete_forever: Xóa xóa vĩnh viễn
+  deleted: "[đã xóa]"
+  disclose_online: Cho phép thành viên khác xem trạng thái online của tôi
+  discussion_renamed_post: "{username} đã thay đổi tiêu đề từ {old} thành {new}."
+  discussion_renamed_notification: "{username} changed the title"
+  discussion_replied: "Last reply {ago} by {username}"
+  discussion_started: "Tạo bở {username} lúc {ago}"
+  discussion_title: Tiêu đề bài viết
+  discussions: Thảo luận
+  edit: Sửa
+  editing_post: "Post #{number} in {discussion}"
+  email: Email
+  email_confirmation_required: "You need to confirm your email before you can log in. We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
+  exit_full_screen: Tắt chế độ toàn màn hình
+  forgot_password: Quên mật khẩu
+  forgot_password_help: Nhập địa chỉ email của bạn và chúng tôi sẽ gửi cho bạn một liên kết để đặt lại mật khẩu của bạn.
+  forgot_password_link: Quên mật khẩu?
+  full_screen: Toàn màn hình
+  go_to: "Go to {location}"
+  group_admin: Admin
+  group_admins: Admins
+  group_guest: Khách
+  group_guests: Thành viên là khách
+  group_member: Thành viên
+  group_members: Danh sách thành viên
+  group_mod: Điều hành
+  group_mods: Thành viên điều hành
+  invalid_login: Sai thông tin đăng nhập.
+  joined: "Joined {ago}"
+  load_more: Tải thêm
+  log_in: Đăng nhập
+  log_in_to_reply: Đăng nhập để bình luận
+  log_out: Đăng xuất
+  mark_all_as_read: Mark All as Read
+  mark_as_read: Đánh dấu đã đọc
+  minimize: Thu nhỏ
+  no_notifications: Không có thông báo nào
+  notifications: Thông báo
+  notify_discussion_renamed: Bài viết bạn theo dõi được thay đổi
+  now: Bây giờ
+  online: Online
+  original_post: Original Post
+  password: Mật khẩu
+  password_reset_email_sent: We've sent you an email containing a link to reset your password. Check your spam folder if you don't receive it within the next minute or two.
+  period_later: "{period} later"
+  post_discussion: Post Discussion
+  post_edited: "{username} edited {ago}"
+  post_number: "Post #{number}"
+  post_reply: Bình luận
+  posts: Posts
+  powered_by_flarum: Powered by Flarum
+  privacy: Quyền riêng tư
+  profile: Hồ sơ
+  prompt_rename_discussion: Nhập tiêu đề mới cho bài viết:
+  recover_password: Khôi phục mật khẩu
+  refresh: Tải lại trang
+  remove: Xóa
+  rename: Đổi
+  reply: Phản hồi
+  reply_posted: Phản hồi của bạn đã được đăng.
+  restore: Khôi phục
+  save_changes: Lưu thay đổi
+  search_all_discussions: 'Search all discussions for "{query}"'
+  search_forum: Tìm kiếm trong diễn đàn
+  send_password_reset_email: Gửi email thay đổi mật khẩu
+  settings: Thiết lập
+  sign_up: Đăng ký
+  sort_latest: Mới
+  sort_newest: Mới nhất
+  sort_oldest: Cũ
+  sort_relevance: Phù hợp
+  sort_top: Lên trên
+  start_a_discussion: Cùng bắt đầu
+  unread_posts: "{count} unread"
+  upload: Tải lên
+  username: Tên đăng nhập
+  username_or_email: Tên đăng nhập hoặc email
+  users: Danh sách thành viên
+  view: Xem
+  viewing_posts:
+    one: "{index} of {count} post"
+    other: "{index} of {count} posts"
+  welcome_user: "Welcome, {username}!"
+  write_a_post: Viết bài...
+  write_a_reply: Tham gia bình luận...

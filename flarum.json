@@ -1,0 +1,24 @@
+{
+    "name": "vietnamese",
+    "title": "Vietnamese",
+    "description": "Vietnamese Extension for Flarum",
+    "keywords": ["flarum", "vietnamese"],
+    "version": "0.1.0",
+    "author": {
+        "name": "duyetdev",
+        "email": "me@duyetdev.com"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "http://duyetdev.com"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#fabdEE",
+        "color": "#ad1519"
+    }
+}

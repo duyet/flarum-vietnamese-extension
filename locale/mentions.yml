@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "Trả lời cho #{number}"
+  post_mentioned_notification: "{username} đã phản hồi bài viết của bạn"
+  others: "{count} người khác"
+  user_mentioned_notification: "{username} mentioned you"
+  post_mentioned_by: "{users} replied to this."
+  you: Bạn
+  reply_link: Trả lời
+  notify_post_mentioned: Someone replies to my post
+  notify_user_mentioned: Someone mentions me in a post

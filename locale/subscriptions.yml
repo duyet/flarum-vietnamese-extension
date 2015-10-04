@@ -1,0 +1,13 @@
+subscriptions:
+  following: Đang theo dõi
+  ignoring: Bỏ qua
+  follow: Theo dõi
+  unfollow: Bỏ theo dõi
+  ignore: Bỏ qua
+  notify_new_post: Có bình luận mới trong bài viết bạn theo dõi
+  new_post_notification: "{username} posted"
+  not_following: Ngừng theo dõi
+  not_following_description: Be notified when @mentioned.
+  following_description: Tất cả bài viết.
+  ignoring_description: Ngừng nhận thông báo. Ẩn thông báo tất cả bài viết.
+  unignore: Bỏ qua
