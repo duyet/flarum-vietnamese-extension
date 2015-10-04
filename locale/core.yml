@@ -83,7 +83,7 @@ core:
   restore: Khôi phục
   save_changes: Lưu thay đổi
   search_all_discussions: 'Search all discussions for "{query}"'
-  search_forum: Tìm kiếm trong diễn đàn
+  search_forum: Tìm kiếm ...
   send_password_reset_email: Gửi email thay đổi mật khẩu
   settings: Thiết lập
   sign_up: Đăng ký
