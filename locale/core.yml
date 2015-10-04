@@ -51,7 +51,7 @@ core:
   joined: "Joined {ago}"
   load_more: Tải thêm
   log_in: Đăng nhập
-  log_in_to_reply: Đăng nhập để bình luận
+  log_in_to_reply: Bình luận
   log_out: Đăng xuất
   mark_all_as_read: Mark All as Read
   mark_as_read: Đánh dấu đã đọc
