@@ -1,10 +1,10 @@
 likes:
   post_liked_notification: "{username} thích bài viết của bạn"
   post_likes_modal_title: Những thành viên thích bài viết
-  post_liked_by_self: "{users} thích."
+  post_liked_by_self: "{users} thích bài viết này."
   post_liked_by:
-    one: "{users} likes this."
-    other: "{users} like this."
+    one: "{users} thích bài viết này."
+    other: "{users} thích bài viết này."
   unlike_action: Bỏ thích
   like_action: Thích
   notify_post_liked: Bài viết của bạn được thích
