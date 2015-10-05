@@ -1,4 +1,4 @@
-# Vietnamese Extension for Flarum 
+# Vietnamese Language Pack Extension for Flarum 
 
 Vietnamese package for [Flarum] (http://flarum.org/)
 
