@@ -4,6 +4,8 @@ Vietnamese package for [Flarum] (http://flarum.org/)
 
 Building for Flarum 0.1.0-beta.2
 
+<img src="http://1.bp.blogspot.com/-8a4wz6knhKo/VhJ9TYTSFnI/AAAAAAAADf0/kF8pUcA1zpg/s640/flarum-logo.png" />
+
 To set up your Flarum forum with a fully working default language (other than English), please follow this procedure:
 
 1. Download Language Extension and unpack it on your machine.
