@@ -13,3 +13,7 @@ To set up your Flarum forum with a fully working default language (other than En
 3. Upload everything in the folder you unpacked into `extensions/vietnamese/`.
 4. Go to Extensions page of the Admin interface and enable the extension.
 5. If you want to set this language as the default for your forum, you can do so on the Basics page.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/duyetdev/flarum-vietnamese-extension/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
